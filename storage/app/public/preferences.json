@@ -1,0 +1,7 @@
+{
+    "params": [
+        "rating"
+    ],
+    "algorithm": "knn",
+    "threshold": "3000"
+}

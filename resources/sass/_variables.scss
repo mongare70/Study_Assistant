@@ -1,0 +1,27 @@
+
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-sans-serif: "Nunito", sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$blue: #012F4F;
+$indigo: #675F90;
+$purple: #9978AD;
+$pink: #FFADD9;
+$red: #A51300;
+$orange: #AB4F43;
+$yellow: #A58200;
+$green: #007D52;
+$teal: #77FAC7;
+$cyan: #00B4B7;
+
+$theme-colors: (
+  "primary": $blue,
+  "danger": $red,
+  "warning": $yellow,
+  "success": $green
+);
